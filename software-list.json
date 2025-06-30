@@ -7,6 +7,14 @@
       "description": "可执行应用程序",
       "version": "1.0.0",
       "update": "2025-03-05"
+    },
+    {
+      "name": "tinytask.ini",
+      "type": "INI文件",
+      "size": "0KB",
+      "description": "",
+      "version": "1.0.0",
+      "update": "2025-06-29"
     }
   ]
 }
