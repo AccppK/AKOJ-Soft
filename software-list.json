@@ -3,7 +3,10 @@
     {
       "name": "tinytask.exe",
       "type": "Windows程序",
-      "size": "35.5KB"
+      "size": "35KB",
+      "description": "可执行应用程序",
+      "version": "1.0.0",
+      "update": "2025-03-05"
     }
   ]
 }
