@@ -1,10 +1,10 @@
 [
     {
-        "name": "tinytask",
+        "name": "tinytask.exe",
         "type": "exe"
     },
     {
-        "name": "tinytask",
+        "name": "tinytask.ini",
         "type": "ini"
     }
 ]

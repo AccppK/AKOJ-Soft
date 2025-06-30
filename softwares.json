@@ -1,0 +1,22 @@
+{
+  "last_updated": "2025-06-30 16:33",
+  "file_count": 2,
+  "files": [
+    {
+      "name": "tinytask.ini",
+      "type": "未知类型",
+      "class": "other",
+      "size": "138 B",
+      "modified": "2025-06-29 15:44",
+      "url": "soft/tinytask.ini"
+    },
+    {
+      "name": "tinytask.exe",
+      "type": "Windows应用",
+      "class": "windows",
+      "size": "35.5 KB",
+      "modified": "2025-03-05 13:17",
+      "url": "soft/tinytask.exe"
+    }
+  ]
+}
